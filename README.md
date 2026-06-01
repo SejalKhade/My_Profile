@@ -16,7 +16,7 @@
 
 Data pipelines, geospatial analytics tools, and operational dashboards that turn large, messy datasets into decisions teams can act on.
 
-**M.S. Data Science — University of Texas at Arlington · GPA: 3.7 · May 2026**
+**M.S. Data Science — University of Texas at Arlington · May 2026**
 2+ years industry experience as Data Analyst & Business Analyst
 
 **Delivered:**
@@ -119,8 +119,7 @@ Data pipelines, geospatial analytics tools, and operational dashboards that turn
 
 ### 🎓 Education
 
-**M.S. Data Science** — University of Texas at Arlington · GPA: 3.7 · May 2026
-*Coursework: Advanced Statistics · Machine Learning · SQL · Data Visualization · Cloud and Data Systems*
+**M.S. Data Science** — University of Texas at Arlington · May 2026
 
 **B.E. Electronics & Telecommunication Engineering** — Savitribai Phule Pune University · 2022
 
