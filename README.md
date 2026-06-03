@@ -56,19 +56,12 @@ Data pipelines, geospatial analytics tools, and operational dashboards that turn
 #### ⚡ Energy Infrastructure Analytics App
 `Python` `GeoPandas` `Folium` `Plotly` `Census API` `NREL API` `Geospatial Analysis`
 
-- Weighted scoring model: 50% generation potential · 30% households nearby · 20% EV gap
-- Automated GeoPandas buffer joins at 1-mile and 3-mile radii — no manual steps
-- Outputs: ranked CSV · GeoJSON · interactive Folium map · Plotly KPI dashboard
-
 [View Project →](https://github.com/SejalKhade/Energy-Infrastructure-Analytics-App)
 
 ---
 
 #### 🚚 Delivery Insights: Identifying Drivers of Delays
 `Python` `SQL` `Scikit-learn` `SciPy` `Power BI` `Logistic Regression`
-
-- Quantified a **23% on-time delivery gap** across 197K records using logistic regression and hypothesis testing
-- Identified multi-variable root cause; recommended route optimization and inventory pre-positioning strategies
 
 [View Project →](https://github.com/SejalKhade/Delivery-Insights-Identifying-Drivers-of-Delays)
 
@@ -77,18 +70,10 @@ Data pipelines, geospatial analytics tools, and operational dashboards that turn
 #### 🎵 Spotify A/B Testing & User Segmentation
 `Python` `Pandas` `SciPy` `K-means` `Tableau` `Statistical Testing`
 
-- K-means clustering segmented 470 users across 32K records into 3 behavioral cohorts
-- Stratified random assignment drove **9.7% engagement lift** (p<0.001, Cohen's d validated)
-- Tableau executive dashboard delivered segment-specific rollout recommendations
-
 ---
 
 #### 🌩️ Power Outage Risk Analysis
 `Python` `Pandas` `NumPy` `Plotly` `EIA-861` `NOAA` `Risk Scoring`
-
-- Merged utility reliability and NOAA storm data across 3,000+ U.S. utilities
-- Classified high-risk utilities using top-20% SAIDI/SAIFI thresholds
-- Built interactive choropleth dashboard surfacing weather-outage correlations across all 50 states
 
 [View Project →](https://github.com/SejalKhade/Power-Outage-Risk-Dashboard)
 
