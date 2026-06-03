@@ -94,29 +94,6 @@ Data pipelines, geospatial analytics tools, and operational dashboards that turn
 
 ---
 
-### 💼 Experience
-
-**Data Analyst — University of Texas at Arlington** · Jan 2026 – May 2026
-- Built geospatial ETL pipeline ingesting Census ACS5 and NREL REST API data to rank 357 DFW energy assets — zero manual intervention from ingestion to output
-- Delivered ranked CSV, GeoJSON, interactive Folium maps, and Plotly dashboards for infrastructure investment decision-making
-
----
-
-**Data Analyst — ETLHive** · Jan 2023 – Jul 2024
-- Analyzed 50K+ records using SQL CTEs, joins, and window functions to surface a **$500K revenue gap** across 15 product categories
-- Automated weekly reporting pipeline in Python — reduced turnaround from **4 hours to 20 minutes**
-- Applied K-means clustering for customer segmentation; interventions contributed to **12% churn reduction**
-- Built Tableau dashboards tracking KPIs for cross-functional business and operations teams
-
----
-
-**Business Analyst Intern — PHN Technology** · Jun 2022 – Dec 2022
-- Analyzed 20K+ records to isolate the process step driving **60% of approval delays**
-- Supported workflow changes that reduced average turnaround from **48 to 41 hours**
-- Documented requirements and process flows for stakeholder review and implementation
-
----
-
 ### 🎓 Education
 
 **M.S. Data Science** — University of Texas at Arlington · May 2026
